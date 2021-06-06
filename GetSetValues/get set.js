@@ -1,4 +1,4 @@
-<script>
+
 function myFunction() {
  var x = document.getElementById("1").value; 
  var x = document.getElementById("2").value;
@@ -18,6 +18,4 @@ var calc = 0;
 
 
 });
-
-</script>
 
